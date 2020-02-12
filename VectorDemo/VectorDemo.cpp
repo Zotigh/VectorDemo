@@ -1,7 +1,7 @@
 // VectorDemo.cpp 
-// LAnce Zotigh(lzotigh1@cnm.edu)
+// Lance Zotigh(lzotigh1@cnm.edu)
 // Date: 2/12/2020
-// Purpose: To demo vectors and random
+// Purpose: To demo vectors 
 
 #include <iostream>
 #include <vector>
