@@ -28,5 +28,9 @@ int main()
     } while (name != "");
 
     //Loop through vector and display it
+    for (int i = 0; i < names.size(); ++i) {
+        cout << names.at(i) << endl;
+    }
+
     return 0;
 }
